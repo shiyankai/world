@@ -1,0 +1,6 @@
+goodsMessage	商品信息表
+userMessage	用户信息表
+numsGet	编码获取表
+userRel	用户关系表
+d_goodsNum	商品库存表
+d_goodsDetail	商品流动表

@@ -1,0 +1,22 @@
+{
+	{
+		"ROOT": {
+			"HEADER": {
+				"CHANNEL_ID": "11",
+				"ENDUSRIP": "10.208.201.147",
+				"KEEP_LIVE": "10.208.201.147",
+				"PROVINCE_GROUP": "SX",
+				"ROUTING": {
+					"ROUTE_KEY": "15",
+					"ROUTE_VALUE": "11"
+				}
+			},
+			"BODY": {
+				"BUSI_INFO": {
+					"ACCOUNT": "20153490817",
+					"BOOKHOMETIME": "201711291600"
+				}
+			}
+		}
+	}
+}
