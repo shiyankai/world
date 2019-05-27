@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="阿里云">
+    <serverData>
+      <paths name="阿里云">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/tomcat/conf" local="$PROJECT_DIR$/云服务器/tomcat/conf" web="" />
+            <mapping deploy="/home/tomcat/webapps" local="$PROJECT_DIR$/云服务器/tomcat/webapps" />
+            <mapping deploy="/home/ftptest" local="$PROJECT_DIR$/云服务器/ftptest" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
