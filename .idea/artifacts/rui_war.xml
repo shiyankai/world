@@ -9,9 +9,6 @@
     </properties>
     <root id="archive" name="yks-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="rui:war exploded" />
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      </element>
     </root>
   </artifact>
 </component>
